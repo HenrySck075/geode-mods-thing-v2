@@ -1,0 +1,17 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "henrysck075.javascript",
+	"name": "Document Object Model",
+	"version": "v0.7.7",
+	"developer": "Henry Spheria",
+	"description": "",
+  "api": {
+    "include": ["include/event.hpp"]
+  }
+}
